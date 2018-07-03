@@ -1,0 +1,26 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:icl="http://www.ICLNBI.com/ICLNBI_V2.00.xsd">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <searchResourceRequest>
+         <MessageElements>
+            <MessageAddressing>
+               <from>RESOLVE</from>
+               <to>ICL</to>
+               <messageID>1327734</messageID>
+               <action>SearchResource</action>
+               <timestamp/>
+               <transactionID/>
+               <serviceName/>
+               <serviceVersion>3.0</serviceVersion>
+            </MessageAddressing>
+         </MessageElements>
+         <SearchResourceDetails>
+            <commonName>DS1IT-12698609</commonName>
+            <sourceSystem>LIMS</sourceSystem>
+            <entity>CIRCUIT</entity>
+            <level>CIRCUIT</level>
+            <scope>DETAILED</scope>
+         </SearchResourceDetails>
+      </searchResourceRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
