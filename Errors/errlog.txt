@@ -1,0 +1,408 @@
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/1/2014 12:08:31 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/1/2014 12:17:20 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/1/2014 12:34:02 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 8/1/2014 6:06:34 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/4/2014 8:33:18 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/4/2014 9:13:10 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/4/2014 9:37:44 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/4/2014 9:45:46 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/4/2014 9:51:12 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/5/2014 11:29:46 AM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/5/2014 7:47:58 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/14/2014 8:51:29 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/14/2014 8:57:50 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 8/14/2014 9:03:56 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 1:17:15 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 1:17:17 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 1:20:59 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 1:21:01 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 1:24:06 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 1:24:08 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 8:58:34 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 8:58:36 PM
+============================================
+Title: ErrorDownloadingCmPlan
+Message: The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 8:59:47 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 9:01:09 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:01:12 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 9:02:37 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:02:38 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 9:13:42 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 9:26:54 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:26:56 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/12/2014 9:33:07 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:42:38 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:43:10 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:43:27 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:45:05 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/12/2014 9:46:36 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/13/2014 11:54:06 AM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/13/2014 11:54:08 AM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/15/2014 4:41:23 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/15/2014 4:41:25 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/15/2014 4:45:07 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/15/2014 4:45:09 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/15/2014 4:50:49 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/16/2014 10:25:03 PM
+============================================
+Title: PCA DO work method
+Message: The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 9/16/2014 10:25:38 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/16/2014 10:25:58 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 8:25:45 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 8:53:57 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 9:08:17 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 9:15:41 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 9:24:34 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 9:29:00 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 9/19/2014 9:38:51 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 10/28/2014 4:58:59 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 10/28/2014 5:22:47 PM
+============================================
+Title: Drivemap
+Message: The operation being requested was not performed because the user has not been authenticated
+StackTrace:    at MapNetworkDrive.NetworkDrive.zMapDrive(String psUsername, String psPassword)
+   at AuditTool.Helper.Drivemap.MapNetworkDrive(Uri siteUrl, String UserName, String Password)
+Date/Time: 12/10/2014 5:49:22 PM
+============================================
+Title: Drivemap
+Message: This network connection does not exist
+StackTrace:    at MapNetworkDrive.NetworkDrive.zUnMapDrive(Boolean pfForce)
+   at AuditTool.Helper.Drivemap.UnMapNetworkDrive()
+Date/Time: 12/10/2014 5:49:48 PM
+============================================
+Title: no data found
+Message: PM Version
+StackTrace: no data found
+Date/Time: 12/10/2014 5:49:49 PM
+============================================
+Title: PCA DO work method
+Message: The request failed with HTTP status 401: Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:49:50 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:50:56 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:50:58 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:51:33 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:51:48 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:51:50 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:51:54 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:53:58 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:54:07 PM
+============================================
+Title: AuthenticationFailed
+Message: The remote server returned an error: (401) Unauthorized.
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 12/10/2014 5:57:28 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:00:58 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:01:18 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:01:18 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:01:44 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:04:09 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:06:05 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:08:06 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:08:07 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:08:08 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:08:56 PM
+============================================
+Title: PCA DO work method
+Message: Length cannot be less than zero.
+Parameter name: length
+StackTrace: AuditTool.Entities.PcaResult
+Date/Time: 1/6/2015 4:50:28 PM
+============================================
