@@ -1,0 +1,28 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SOAP-ENV:Body>
+		<tns:UpdateCircuitRequest xsi:schemaLocation="http://www.ICLNBI.com/ICLNBI_V2.00.xsd C:\Rashmi\XMLSPY\ICL_V2.01.xsd" xmlns:tns="http://www.ICLNBI.com/ICLNBI_V2.00.xsd" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+			<MessageElements>
+				<MessageAddressing>
+					<from>DSP</from>
+					<to>ICL</to>
+					<replyTo>DSP</replyTo>
+					<messageID>DSP1381851999180</messageID>
+					<action>UpdateCircuit</action>
+					<timestamp>Tue Oct 15 10:46:39 CDT 2013</timestamp>
+					<transactionID>1381851999180</transactionID>
+					<serviceName>UpdateCircuit</serviceName>
+					<serviceVersion>3.0</serviceVersion>
+					<userId>DSPWFPP</userId>
+					<password>DSPWFPP</password>
+				</MessageAddressing>
+			</MessageElements>
+			<P2PCircuit xsi:type="tns:UNICircuit">
+				<commonName>15/KFGS/612635//CTRL</commonName>
+				<objectID>9159</objectID>
+				<sourceSystem>ARM</sourceSystem>
+				<ResourceType>UNI</ResourceType>
+				<lrStatus>Disconnected</lrStatus>
+			</P2PCircuit>
+		</tns:UpdateCircuitRequest>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
